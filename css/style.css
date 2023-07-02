@@ -1,0 +1,25 @@
+.para{
+    color: brown;
+}
+table{
+    color: brown;
+    background-color: #3cd6c7;
+    width: 100vw;
+    height: 20vh;
+    margin-top: 20px;
+    
+   
+}
+form{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items:center;
+    align-content:center;
+    justify-content:space-evenly;
+
+    
+}
+body{
+    padding: 10px;
+}
